@@ -178,7 +178,7 @@ export default function Home() {
       {/* Inhalte */}
       <main
         className="flex flex-col items-center justify-start relative z-10 flex-grow 
-                       px-2 sm:px-4 py-6 sm:py-10"
+                       px-4 sm:px-4 py-6 sm:py-10"
       >
         <section
           className="bg-[#1f29379a] rounded-lg shadow-lg 
